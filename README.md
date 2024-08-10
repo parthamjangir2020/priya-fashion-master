@@ -1,8 +1,4 @@
-# active_ecommerce_flutter
-
-This is the flutter mobile application for active ecommerce cms
-
-# PriyaFashion- TTinfotechs
+# Priya Fashion - Developed by TTinfotechs
 
 ## Getting Started
 
