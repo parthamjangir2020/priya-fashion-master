@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13870012388",
+    "project_id": "priya-fashion-cbd90",
+    "storage_bucket": "priya-fashion-cbd90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13870012388:android:4b3a234445211e468619f1",
+        "android_client_info": {
+          "package_name": "com.ttinfotechs.priyafashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAY-hS-jrNBdGOU2RIpk1j8qei_x-TRdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
