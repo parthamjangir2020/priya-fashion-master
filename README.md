@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 </div>  
 
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>
+### <div align="center">I'm Partham Jangir, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working on [Full Time Freelancer](https://portfolio.sonusaini.in/)
 
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes
