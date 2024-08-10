@@ -17,24 +17,17 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+## About Me
 
 ### <div align="center">I'm Partham Jangir, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>
 
 
 - 🔭 I’m currently working on [Full Time Freelancer](https://portfolio.sonusaini.in/)
-
-
 - 🌱 I’m currently learning Hyperledger and Kubernetes
-
-
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-
 - ⚡ Fun fact: I use tabs over spaces
-
-
 <br/>  
-
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
